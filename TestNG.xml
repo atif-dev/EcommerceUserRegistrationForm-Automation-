@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="EcommerceWebForm">
+
+	 
+
+	<test name="EcommerceWebForm Test">
+		
+		<classes>
+		
+			  		
+			          <class name = "com.ecommercewebform.testcases.TC_01" />
+			          <class name = "com.ecommercewebform.testcases.TC_02" />
+			  		 <class name = "com.ecommercewebform.testcases.TC_03" /> 
+			  		<class name = "com.ecommercewebform.testcases.TC_04" /> 
+			 		  
+		</classes>
+
+	</test>
+
+</suite>
